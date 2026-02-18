@@ -22,7 +22,7 @@ export default function Footer() {
             Terms
           </a>
           <a
-            href="https://github.com/AayushKP/p2p-sharing"
+            href="https://github.com/dpokk/p2p-sharing"
             id="footer-github"
             className="hover:text-white transition"
           >
